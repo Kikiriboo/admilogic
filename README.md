@@ -238,3 +238,4 @@ comando para ejecutar las pruebas:
 
 Mockup
 https://www.figma.com/file/pDkqkNpfZrVR7oVh7VEoxR/AdmiLogic?node-id=0%3A1
+https://docs.google.com/document/d/1oECfD3Eo6Qpq0srWcCt5YhG-BQElFFiSYDtj2UQ62nE/edit?usp=sharing
